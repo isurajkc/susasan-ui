@@ -1,0 +1,11 @@
+{
+  "name": "component-input",
+  "version": "1.0.1-2",
+  "description": "A simple input component",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "author": "Suraj kc",
+  "dependencies": {
+    "react": "^15.6.1"
+  }
+}

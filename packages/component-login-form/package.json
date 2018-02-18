@@ -1,0 +1,14 @@
+{
+  "name": "component-login-form",
+  "version": "1.0.1-2",
+  "description": "A simple login form component",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "author": "Suraj kc",
+  "dependencies": {
+    "component-button": "^1.0.0",
+    "component-input": "^1.0.1-2",
+    "helper-nearformTheme": "^1.0.0",
+    "react": "^15.6.1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Heading",
+  "version": "0.0.1",
+  "description": "A simple heading component",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "author": "Suraj kc"
+}
